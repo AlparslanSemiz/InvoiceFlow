@@ -6,7 +6,7 @@ InvoiceFlow is a comprehensive invoice management system developed within the **
 *The source code of this project is hosted on Delta's internal GitLab server (`gitlab.delta-ev.de`) and is kept **Private** due to organizational regulations and data security policies. This repository serves as a showcase of my technical contributions, role, and the architecture used.*
 
 ## 👤 My Role & Contributions
-As a **Full-Stack Developer** in a 4-person team, I have been actively working on:
+As a **Full-Stack Developer** in a 3-person team, I have been actively working on:
 - Designed and developed dynamic UI input fields and components aligned with complex XML structures.
 - Implemented robust backend data logic to handle structured invoice processing.
 - Customized and integrated automated PDF-generation designs based on strict predefined sample layouts.
