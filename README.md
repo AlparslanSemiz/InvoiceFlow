@@ -25,7 +25,7 @@ Full-stack developer in a team of three. I worked on:
 - Dynamic input fields and components that match complex XML structures.
 - Backend logic for processing structured invoice data.
 - PDF generation designs based on strict predefined sample layouts.
-- The team workflow: agile practices, continuous deployment pipelines and Git.
+- Took part in agile teamwork, continuous deployment pipelines and Git-based collaboration.
 
 ## Tech
 
