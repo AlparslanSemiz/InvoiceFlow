@@ -1,24 +1,36 @@
-# InvoiceFlow (Full-Stack Web Application)
+<h1 align="center">InvoiceFlow</h1>
+<p align="center">An invoice management web app built by a three-person team in the Delta Hochschulgruppe at KIT. It generates and manages PDF and XML-based invoices.</p>
 
-InvoiceFlow is a comprehensive invoice management system developed within the **Delta Hochschulgruppe (KIT)**. It streamlines the generation, management, and analysis of PDF and XML-based invoices.
+<p align="center">
+<img src="https://img.shields.io/badge/T3%20Stack-Next.js-555?style=flat" alt="T3 Stack, Next.js">
+<img src="https://img.shields.io/badge/TypeScript-555?style=flat" alt="TypeScript">
+<img src="https://img.shields.io/badge/team-3-555?style=flat" alt="team of three">
+<img src="https://img.shields.io/badge/source-private-555?style=flat" alt="source is private">
+</p>
 
-## 🔒 Source Code Privacy Notice
-*The source code of this project is hosted on Delta's internal GitLab server (`gitlab.delta-ev.de`) and is kept **Private** due to organizational regulations and data security policies. This repository serves as a showcase of my technical contributions, role, and the architecture used.*
+## About this repository
 
-## 👤 My Role & Contributions
-As a **Full-Stack Developer** in a 3-person team, I have been actively working on:
-- Designed and developed dynamic UI input fields and components aligned with complex XML structures.
-- Implemented robust backend data logic to handle structured invoice processing.
-- Customized and integrated automated PDF-generation designs based on strict predefined sample layouts.
-- Participated in agile team environments, continuous deployment pipelines, and Git workflows.
+This repository has no code. The source lives on Delta's internal GitLab server and is private because of the group's rules and data security policy. This page describes the project, the architecture and my part in it.
 
-## 🛠️ Tech Stack & Architecture
-The application is built using the modern **T3 Stack** production architecture:
-- **Frontend:** React, TypeScript, Tailwind CSS
-- **Backend/API:** Next.js (T3 Stack)
-- **Data handling:** XML parsing, PDF layout engines
+## What it does
 
-## ✨ Key Features
-- Dynamic XML-to-UI binding.
-- High-fidelity PDF output generation matching official templates.
-- Full-stack performance optimization for multi-user workflows.
+- Binds invoice input fields in the UI to the structure of the XML invoice.
+- Produces PDF output that follows predefined sample layouts.
+- Processes structured invoice data on the backend for several users.
+
+## My role
+
+Full-stack developer in a team of three. I worked on:
+
+- Dynamic input fields and components that match complex XML structures.
+- Backend logic for processing structured invoice data.
+- PDF generation designs based on strict predefined sample layouts.
+- The team workflow: agile practices, continuous deployment pipelines and Git.
+
+## Tech
+
+T3 Stack: React, TypeScript and Tailwind CSS on the front end, Next.js for the API, XML parsing and a PDF layout engine for the invoice data.
+
+## Status
+
+The code is private, so this repository is a showcase only and nothing here can be run.
